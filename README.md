@@ -6,4 +6,9 @@
 
 
 </br>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=brichavez&theme=deepBlue)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brichavez&theme=dark&background=000000)](https://git.io/streak-stats)
