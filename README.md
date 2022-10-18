@@ -23,6 +23,9 @@
 </br>
 </br>
 </br>
+
+<img src="https://vercel.com/brichavez/github-readme-linkedin/education?username=bri-chavez" />
+
 </br>
 
 
