@@ -28,3 +28,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brichavez&theme=deepBlue)](https://git.io/streak-stats)
 
+
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
