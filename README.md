@@ -31,6 +31,9 @@
 <img src="https://github-readme-linkedin.vercel.app/user?username=bri-chavez" width="730" height="100" />
 
 <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/user?username=bri-chavez" width="730" height="100" />
+<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/education?username=bri-chavez" width="730" height="100" />
+<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/languages?username=bri-chavez" width="730" height="100" />
+<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/user?username=bri-chavez" width="730" height="100" />
 
 <img src="https://github-readme-linkedin-brichavez.vercel.app/education?username=bri-chavez" />
 
