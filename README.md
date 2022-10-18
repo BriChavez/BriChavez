@@ -16,8 +16,9 @@
 </br>
 </br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BriChavez&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriChavez&layout=compact&theme=deepBlue)](https://github.com/BriChavez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriChavez&layout=compact&theme=radical)](https://github.com/BriChavez/github-readme-stats)
 
 </br>
 </br>
