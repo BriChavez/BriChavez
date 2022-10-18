@@ -17,7 +17,7 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriChavez)](https://github.com/BriChavez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriChavez&layout=compact&theme=deepBlue)](https://github.com/BriChavez/github-readme-stats)
 
 </br>
 </br>
