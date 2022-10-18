@@ -21,7 +21,7 @@
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BriChavez&show_icons=true&theme=algolia)
+![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BriChavez&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriChavez&layout=compact&theme=algolia)](https://github.com/BriChavez/github-readme-stats)
 
@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<img src="https://vercel.com/brichavez/github-readme-linkedin/education?username=bri-chavez" />
+<img src="https://github-readme-linkedin-nu.vercel.app/education?username=bri-chavez" />
 
 </br>
 
