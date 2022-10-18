@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=Bri Chavez&fontColor=4682B4&animation=twinkling)
 
 
+
+</br>
+</br>
+</br>
+</br>
 
 <div id="header" align="left">
   <img src="https://blog.panoply.io/hs-fs/hubfs/Blog_images/5%20data%20tasks-%20gif1.gif?width=300&height=225&name=5%20data%20tasks-%20gif1.gif" width="40%"/>
