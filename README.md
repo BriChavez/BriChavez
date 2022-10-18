@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<img src="https://vercel.link/unused-build-settings/education?username=bri-chavez" />
+<img src="https://github-readme-linkedin-brichavez.vercel.app/education?username=bri-chavez" />
 
 </br>
 
