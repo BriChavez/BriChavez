@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=300&text=Bri&nbsp;&nbsp;Chavez&fontColor=4682B4&fontAlignY=20&animation=twinkling&color=301934)
+![header](https://capsule-render.vercel.app/api?height=300&text=Bri&nbsp;&nbsp;Chavez&fontColor=4682B4&fontSize=100&fontAlignY=20&animation=twinkling&color=301934)
 
 
 
