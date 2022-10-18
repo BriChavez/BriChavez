@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-linkedin-nu.vercel.app/education?username=bri" />
+<img src="https://github-readme-linkedin.vercel.app/education?username=bri" />
 
 </br>
 
