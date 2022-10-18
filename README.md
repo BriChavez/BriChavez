@@ -36,7 +36,7 @@
 
 <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/languages?username=bri-chavez" width="730" height="100" />
 
-<img src="https://github-readme-linkedin-pink.vercel.app/skills?username=bri-chavez" width="730" height="100" />
+<img src="https://github-readme-linkedin-brichavez.vercel.app/skills?username=bri-chavez" width="730" height="100" />
 
 <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/experience?username=bri-chavez" width="730" height="100" />
 
