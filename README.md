@@ -31,6 +31,10 @@
 
 <img src="https://github-readme-linkedin-brichavez.vercel.app/education?username=bri-chavez" />
 
+<img src="https://github-readme-linkedin-pink.vercel.app/education?username=bri-chavez" />
+
+
+<img src="https://github-readme-linkedin-git-master-brichavez.vercel.app/education?username=bri-chavez" />
 </br>
 
 
