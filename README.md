@@ -8,7 +8,9 @@
 
 
 𝗛𝗲𝗹𝗹𝗼, and Welcome to my GitHub page. Feel free to peruse at your leisure. If I may be so bold as to point you to a few of my favorite projects. The three I have in mind are all passion projects that I tackled outside of school. 
+
 One is my PDF converter, it was a biproduct of another of my codes. I found myself with a bunch of pdfs that I needed to turn into txt files so I could play with them in Python. Instead of transforming them one at a time using an online converter, I decided to write a code to do the work for me. Using PYPDF2, Just entering a folder path will take all of the PDF's inside that folder, loop through each page in the file, and read it into a txt file with little to no translation errors.
+
 
 
 Hello, my name is Bri. I am a creatively logical, yet lateral thinker currently enrolled in the data engineering track at Epicodus. I am writing to you today in regards to the position for an entry level data engineer I saw on Indeed. 
