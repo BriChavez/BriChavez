@@ -9,9 +9,9 @@
 
 &emsp; 𝗛𝗲𝗹𝗹𝗼, and Welcome to my GitHub page. Feel free to peruse at your leisure. If I may be so bold as to point you to a few of my favorite projects. The three I have in mind are all passion projects that I tackled outside of school. 
 
-&emsp; One is my PDF converter, it was a biproduct of another of my codes. I found myself with a bunch of pdfs that I needed to turn into txt files so I could play with them in Python. Instead of transforming them one at a time using an online converter, I decided to write a code to do the work for me. Using PYPDF2, Just entering a folder path will take all of the PDF's inside that folder, loop through each page in the file, and read it into a txt file with little to no translation errors.
+&emsp; One is my PDF converter, it was a bi-product of another of my codes. I found myself with a bunch of PDFs that I needed to turn into txt files in order to play with them in Python. Instead of transforming them one at a time using an online converter, I decided to write a code to do the work for me using PYPDF2. Just entering a folder path will take all of the PDF's inside that folder, loop through each page in the file, and read it into a txt file.
 
-&emsp; Next Up is my experiment with ELT using DBT. As I am more familiar with ETL, it was an interesting learning experience and fun to challenge my brain to think about pipelines in a different way. 
+&emsp; Next up, is my experiment with ELT using DBT. As I am more familiar with ETL, it was an interesting learning experience and fun to challenge my brain to think about pipelines in a different way. 
 
 Hello, my name is Bri. I am a creatively logical, yet lateral thinker currently enrolled in the data engineering track at Epicodus. I am writing to you today in regards to the position for an entry level data engineer I saw on Indeed. 
 One of the things that drove me to data engineering is my love of words and word puzzles. The drive to create logic from the chaotic beauty of mass data. There is power in words. And back end coding is like one big puzzle. Although I am still relatively new to the data world, I feel I am at home here.
