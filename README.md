@@ -13,8 +13,6 @@
 
 &emsp; Next up, is my [interactive Google Data Studio map](https://brichavez.github.io/dbt_world_cup/) and experiment with ELT on the DBT platform. **This one is fun because as you make different selections, all of the graphs and maps update to reflect the related information.** As I am more familiar with ETL, it was an interesting learning experience and super fun to challenge my brain into thinking about pipelines in a different way. Playing around in Google Data Studio helped me deeper understand the importance of and how to better clean data. And, boy oh boy, did I get intimate with Google BigQuery. 
 
-Hello, my name is Bri. I am a creatively logical, yet lateral thinker currently enrolled in the data engineering track at Epicodus. I am writing to you today in regards to the position for an entry level data engineer I saw on Indeed. 
-One of the things that drove me to data engineering is my love of words and word puzzles. The drive to create logic from the chaotic beauty of mass data. There is power in words. And back end coding is like one big puzzle. Although I am still relatively new to the data world, I feel I am at home here.
 
 </br>
 
