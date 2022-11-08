@@ -14,6 +14,9 @@
 &emsp; Next up, is my [interactive Google Data Studio map](https://brichavez.github.io/dbt_world_cup/) and experiment with ELT on the DBT platform. **This one is fun because as you make different selections, all of the graphs and maps update to reflect the related information.** As I am more familiar with ETL, it was an interesting learning experience and super fun to challenge my brain into thinking about pipelines in a different way. Playing around in Google Data Studio helped me deeper understand the importance of and how to better clean data. And, boy oh boy, did I get intimate with Google BigQuery. 
 
 
+&emsp; I saved my favorite for last. This is my [Dr. Seuss markov](https://github.com/markov/) that I wrote pretty much from scratch. The only library I used was Numpy for the random number generator. The nested dictionaries necessary to store each word, every following word and how many times that pair order ocurred in the given text. 
+
+
 </br>
 
 <div id="header" align="left">
