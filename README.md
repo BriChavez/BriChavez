@@ -15,7 +15,7 @@
 
 
 &emsp; I saved my favorite for last. This is my [Dr. Seuss markov](https://github.com/markov/) that I wrote pretty much from scratch. Coolest part about this code is that **you can use any text you want**. The only library I used was Numpy for the random number generator. For more on Markovs and how they work, there is further explanation in the project's README.
-I did also write [another](https://github.com/BriChavez/mark_capstone) that was made to write cover letters and this one not only saves contractions, but after it enters the dictionaries, we expand them. It also runs through spell check at the end and can make for some very hilarious and fun cover letters.
+I did also write [another](https://github.com/BriChavez/mark_capstone) that was made to write cover letters. This one not only saves contractions, but after they enter the dictionaries, we expand them. It also runs through spell check at the end and can make for some very hilarious and fun cover letters.
 
 
 </br>
