@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?height=300&text=Bri&nbsp;&nbsp;Chavez&fontColor=32CD32&fontSize=100&fontAlignY=30&desc=data&nbsp;engineer&descAlign=40&animation=twinkling&color=0:191970,100:4682B4)
 
-
 <!-- &color=_custom_gradient&color=0:0047AB,100:301934 -->
 </br>
 </br>
 </br>
-
 
 &emsp; 𝗛𝗲𝗹𝗹𝗼, and Welcome to my GitHub page. Feel free to peruse at your leisure. If I may be so bold as to point you to a few of my favorite projects. The three I have in mind are all passion projects that I tackled outside of school. 
 
@@ -37,10 +35,7 @@ I did also write [another](https://github.com/BriChavez/mark_capstone) that was 
 </br>
 </br>
 
-
-
 <!-- <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/user?username=bri-chavez" width="730" height="100" />
-
 
 <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/education?username=bri-chavez" width="730" height="100" />
 
@@ -48,17 +43,10 @@ I did also write [another](https://github.com/BriChavez/mark_capstone) that was 
 
 <img src="https://github-readme-linkedin-git-master-brichavez.vercel.app/skills?username=bri-chavez" width="730" height="100" />
 
-<<<<<<< HEAD
 <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/experience?username=bri-chavez" width="730" height="100" /> -->
-
-
->>>>>>> 415f75c35a0b6cb49cb305da32c92907d4cfcc69
 
 </br>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=brichavez&theme=deepBlue)](https://git.io/streak-stats)
-
-
 
 ![Snake animation](https://github.com/brichavez/brichavez/blob/output/github-contribution-grid-snake.svg)
