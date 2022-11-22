@@ -11,11 +11,9 @@
 
 &emsp; [Interactive Google Data Studio map](https://brichavez.github.io/dbt_world_cup/)
 
-
-&emsp; [Dr. Seuss markov](https://github.com/markov/) that I wrote pretty much from scratch. Coolest part about this code is that **you can use any text you want**. 
+&emsp; [Dr. Seuss markov](https://github.com/markov/) 
 
 &emsp; [Cover letter Markov generator](https://github.com/BriChavez/mark_capstone)
-
 
 </br>
 </br>
@@ -26,19 +24,7 @@
 
 </br>
 </br>
-</br>
 
-<!-- <img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/user?username=bri-chavez" width="730" height="100" />
-
-<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/education?username=bri-chavez" width="730" height="100" />
-
-<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/languages?username=bri-chavez" width="730" height="100" />
-
-<img src="https://github-readme-linkedin-git-master-brichavez.vercel.app/skills?username=bri-chavez" width="730" height="100" />
-
-<img src="https://github-readme-linkedin-2nk85ecf1-brichavez.vercel.app/experience?username=bri-chavez" width="730" height="100" /> -->
-
-</br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brichavez&theme=deepBlue)](https://git.io/streak-stats)
 
@@ -50,6 +36,3 @@
 <div id="header" align="left">
   <img src="https://blog.panoply.io/hs-fs/hubfs/Blog_images/5%20data%20tasks-%20gif1.gif?width=300&height=225&name=5%20data%20tasks-%20gif1.gif" width="40%"/>
 </div>
-
-</br>
-</br>
