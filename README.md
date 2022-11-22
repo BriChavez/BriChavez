@@ -3,10 +3,12 @@
 <!-- &color=_custom_gradient&color=0:0047AB,100:301934 -->
 </br>
 </br>
-</br>
+
 𝗛𝗲𝗹𝗹𝗼, and Welcome to my GitHub page. Feel free to peruse at your leisure. If I may be so bold as to point you to a few of my favorite projects. 
+
 </br>
 </br>
+
 [PDF to TXT converter](https://github.com/BriChavez/pdf_txt_converter)
 
 [Interactive Google Data Studio map](https://brichavez.github.io/dbt_world_cup/)
