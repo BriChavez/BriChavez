@@ -13,7 +13,7 @@
 
 [Interactive Google Data Studio map](https://brichavez.github.io/dbt_world_cup/)
 
-[Dr. Seuss markov]([https://github.com/markov/](https://github.com/BriChavez/seuss_markov)) 
+[Dr. Seuss markov](https://github.com/BriChavez/seuss_markov)
 
 [Cover letter Markov generator](https://github.com/BriChavez/mark_capstone)
 
